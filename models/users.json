@@ -1,10 +1,1 @@
-[
-  {
-    "username": "safal",
-    "password": "$2b$10$aReHuiWV2RQjJaK5UpWvGeJd8Z7ZEY/xS5Ov5bhdBzDNkbE884IH6"
-  },
-  {
-    "username": "safal1",
-    "password": "$2b$10$TCTFlL6HT7cK.5Q6Nb7MpuHaYrm4Ckoo8NyfVY.iY8zgQH57Y7FCK"
-  }
-]
+[{"username":"safal123","password":"$2b$10$r6c9p52bO9P5qK9Povls3eIBlqeumktGczobIm4dcvZ6RSGClLqbC"},{"username":"safal123456789","password":"$2b$10$mVA6JmnazlBaC1H1EvD9Ze3qYmXc3s/vo6fcr3xBzWtI2b6EQ4mGW"},{"username":"safal1234","password":"$2b$10$ZW8yIrurO/inZlPWOuFi1uFPVXgNNudyCwKaaqJs9TVmcGRzChtVW","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZmFsMTIzNCIsImlhdCI6MTY3MzI4NTY2NSwiZXhwIjoxNjczMzcyMDY1fQ.pqKc6NBvHLU6NzAnKFDT_54pDqYPwh34XdzBk3hVdVs"}]
