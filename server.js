@@ -7,6 +7,7 @@ const registerNewUser = require("./routes/register");
 const login = require("./routes/login");
 const getUsers = require("./routes/getUsers");
 const refresh = require("./routes/refreshToken");
+const logout = require("./routes/logout");
 const verifyJwt = require("./middleware/verify");
 
 app.use(express.urlencoded({ extended: false }));
@@ -17,5 +18,6 @@ app.use("/post", verifyJwt, getUsers);
 app.use("/register", registerNewUser);
 app.use("/login", login);
 app.use("/refresh", refresh);
+app.use("/logout", logout);
 
 app.listen(3500);
